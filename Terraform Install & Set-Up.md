@@ -10,11 +10,11 @@ Terraform Install \& Set-Up
 
 3\. In GitBash, type "terraform --version" (do not worry about out-of-date) \[version: v1.13.4]
 
-4\. Make a directory, "cd" into it and verify the correct destination (previously created one from installation)
+4\. In File Explorer: Make a directory, "cd" into it and verify the correct destination (previously created one from installation)
 
 5\. Go to "Documents" folder and create "terraform) folder, then in that folder, make a folder of today's date \[mmddyy]
 
-6\. In this folder, right-click in open area and select "Open GitBash here" (GitBash should open within this directory)
+6\. In this folder, right-click in open area and select to open in GitBash/VS Code/etc (Application should open within this directory).
 
 7\. Type "touch '0-auth.tf'" to create authentication file
 
