@@ -22,3 +22,5 @@ Include:
 > Screenshot of the .gitignore file in the same folder as your Terraform files
  
 > Text document listing at least one person who you shared your instructions with, and they were able to use your instructions to deploy Terraform on their own.
+
+![](https://www.innovationnewsnetwork.com/wp-content/uploads/2025/01/shutterstock_2309752637-696x391.jpg](https://miro.medium.com/v2/resize:fit:1090/0*2-Eyak8AllUybGAN))
